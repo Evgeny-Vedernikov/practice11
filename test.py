@@ -1,2 +1,2 @@
 # 11
-print ("hello, world!")
+print ("hello, world!\n")
